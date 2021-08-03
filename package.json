@@ -1,0 +1,11 @@
+{
+  "name": "nr-ui",
+  "version": "1.0.0",
+  "description": "Pages and styles for czech national repository",
+  "main": "src/plugin.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
